@@ -3,7 +3,7 @@ Extented Programmer Dvorak (dvpe)
 #### New Geometry: (uppercase letters remaped)
 ```
      ; , . U F Y g c L P
-     a o e I H d R t n s
+     a o e I H d R t S N
      ' q j k x b m w v z
 ```
 
@@ -19,7 +19,8 @@ On remapped letters:
  - F: what follows 'f' are often not vowels, instead they are consonents, it should be on the left;
  - Y, P: they don't deserve a good place, put them like in qwerty
  - U, L: 'u' moved up, 'l' moved left
- 
+ - S, N: I considered a long time, and finally decided to swap 'u' and 's', they are both import, seems no need to swap, but you know, there are much more 'ss' than 'uu', my small finger doesn't like double tap at all!!!
+
 #### More custom:
 I prety like [xcape](https://github.com/alols/xcape), with it you can do some migic like make Alt_R another Return without losing it's composing behavior
 
@@ -29,3 +30,7 @@ I use it to make:
  Alt_R    ->  Return
 
 in bash/zsh: `xcape -e "Alt_L=Tab;Alt_R=Return"`
+
+
+#### A Simple Shell to do it (i'm struggling with now... try some days) 
+See the dvpe.sh
