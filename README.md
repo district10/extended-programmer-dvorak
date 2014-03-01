@@ -18,16 +18,14 @@ On remapped letters:
  - I: 'i' was happily set under left index finger;
  - F: what follows 'f' are often not vowels, instead they are consonents, it should be on the left;
  - Y, P: they don't deserve a good place, put them like in qwerty
-
-
- - 'u' moved up, 'l' moved left, easy to remember, easy to get along.
- - 'y', 'p', i don't like them
- - 'h', 'r', on where they should be
- - 'f', it should be put on the left
-
+ - U, L: 'u' moved up, 'l' moved left
+ 
 #### More custom:
-I prety like [xcape](), with it you can do some migic like make <Alt_R> another <Return> without losing it's composing behavior
+I prety like [xcape](https://github.com/alols/xcape), with it you can do some migic like make Alt_R another Return without losing it's composing behavior
+
 I use it to make:
-Alt_L    ->  Tab
-Alt_R    ->  Return
+
+ Alt_L    ->  Tab
+ Alt_R    ->  Return
+
 in bash/zsh: `xcape -e "Alt_L=Tab;Alt_R=Return"`
