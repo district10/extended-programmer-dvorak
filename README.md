@@ -35,3 +35,11 @@ Alt_L=Tab;Alt_R=Return\
 
 #### A Simple Shell to do it (i'm struggling with now... try some days) 
 See the dvpe.sh
+
+
+---
+Sunday, March 02 2014:
+I'v had it enough, not going chang it! Even not the best.
+All 26 letters settled, and i'm struggling on it. Especially， 'n', 'r', and 'y'.
+
+I'll keep working on modifier keys, like control, shift, alt, mod2-5, etc
