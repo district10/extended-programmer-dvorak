@@ -20,5 +20,5 @@ xcape -e "\
 Super_L=Alt_R|F2;\
 Alt_L=Tab;Alt_R=Return;\
 Shift_L=Shift_L|underscore;Shift_R=backslash;\
-Control_L=grave;Control_R=exclam"
+Control_L=Shift_L|grave;Control_R=exclam"
 
