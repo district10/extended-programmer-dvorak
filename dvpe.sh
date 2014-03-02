@@ -31,7 +31,7 @@
 ##########################################################
 # Map Keys to:
 #     ; , . U F Y g c L P
-#     a o e I H d R t S N
+#     a o e H i d R t S N
 #     ' q j k x b m w v z
 
 # p -> u
@@ -45,12 +45,10 @@ xmodmap -e "keycode 29 = y"
 xmodmap -e "keycode 32 = l"
 # l -> p
 xmodmap -e "keycode 33 = p"
-# u -> i
-xmodmap -e "keycode 41 = i"
-
+# u -> h
+# xmodmap -e "keycode 41 = h"
 # i -> h
-xmodmap -e "keycode 42 = h"
-# h -> r
+
 xmodmap -e "keycode 44 = r"
 # n -> s
 xmodmap -e "keycode 46 = s"
