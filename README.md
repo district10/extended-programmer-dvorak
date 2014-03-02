@@ -3,7 +3,7 @@ Extented Programmer Dvorak (dvpe)
 #### New Geometry: (uppercase letters remaped)
 ```
      ; , . U F Y g c L P
-     a o e I H d R t S N
+     a o e H i d R t S N
      ' q j k x b m w v z
 ```
 
@@ -14,8 +14,7 @@ the mostly frequently used letters are:
 
 On remapped letters:
  - R: 'r' should be in the home row;
- - H: 'h' was pushed aside by 'r', for easy type the most frequent "th" bigram, i put it on the left, and "wh" is easier too;
- - I: 'i' was happily set under left index finger;
+ - H: 'h' was pushed aside by 'r', for easy type the most frequent "th" bigram, i put it on the left, and "wh", "he", etc are much more easier
  - F: what follows 'f' are often not vowels, instead they are consonents, it should be on the left;
  - Y, P: they don't deserve a good place, put them like in qwerty
  - U, L: 'u' moved up, 'l' moved left
@@ -28,8 +27,10 @@ I use it to make:
 
  Alt_L    ->  Tab
  Alt_R    ->  Return
-
-in bash/zsh: `xcape -e "Alt_L=Tab;Alt_R=Return"`
+in bash/zsh: 
+```
+xcape -e "\
+Alt_L=Tab;Alt_R=Return\
 
 
 #### A Simple Shell to do it (i'm struggling with now... try some days) 
