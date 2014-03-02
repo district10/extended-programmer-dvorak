@@ -45,9 +45,9 @@ xmodmap -e "keycode 29 = y"
 xmodmap -e "keycode 32 = l"
 # l -> p
 xmodmap -e "keycode 33 = p"
+
 # u -> h
-# xmodmap -e "keycode 41 = h"
-# i -> h
+xmodmap -e "keycode 41 = h"
 
 xmodmap -e "keycode 44 = r"
 # n -> s
