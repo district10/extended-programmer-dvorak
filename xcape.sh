@@ -5,7 +5,7 @@
 spare_modifier="Hyper_L"
 xmodmap -e "keycode 65 = $spare_modifier"
 xmodmap -e "remove mod4 = $spare_modifier" # hyper_l is mod4 by default
-xmodmap -e "add Control = $spare_modifier" # make it another control
+xmodmap -e "add mod4 = $spare_modifier" # make it another control
 
 # Map space to an unused keycode (to keep it around for xcape to use).
 # xev >> /tmp/output.txt # enter all keys
@@ -19,6 +19,6 @@ xcape -e "$spare_modifier=space"
 xcape -e "\
 Super_L=Alt_R|F2;\
 Alt_L=Tab;Alt_R=Return;\
-Shift_L=Shift_L|underscore;Shift_R=backslash;\
+Shift_L=slash;Shift_R=backslash;\
 Control_L=Shift_L|percent;Control_R=Shift_R|asciitilde"
 

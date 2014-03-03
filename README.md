@@ -2,9 +2,9 @@ Extented Programmer Dvorak (dvpe)
 =================================
 #### New Geometry: (uppercase letters remaped)
 ```
-     ; , . U F Y g c L P
+     ; , . K y f g c L Z
      a o e H i d R t S N
-     ' q j k x b m w v z
+     ' q j U x b m w v P
 ```
 
 #### Why?
