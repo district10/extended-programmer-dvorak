@@ -90,3 +90,6 @@ too much puncs in c++，caused qwerty hard to use
 
 
 ## [road map](/roadmap.md)
+
+
+fuck windows
