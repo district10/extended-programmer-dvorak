@@ -20,7 +20,6 @@ the mostly frequently used letters are:
 
 On remapped letters:
  - R: 'r' should be in the home row;
- - H: 'h' was pushed aside by 'r', for easy type the most frequent "th" bigram, i put it on the left, and "wh", "he", etc are much more easier
  - I, H, K, L: 'i' deserve it! 'h' moved down to index finger lower row, easy to reach; 'k' up, not use it often; 'l' moved left, great!!
  - S, N: I considered a long time, and finally decided to swap 'u' and 's', they are both import, seems no need to swap, but you know, there are much more 'ss' than 'nn', my small finger doesn't like double tap at all!!!
  - U: no where to go, so here
@@ -35,7 +34,7 @@ you should set up Programmer Dvorak Keyboard Layout first. Then, check the dvpe.
 
 
 #### Windows: I made one by "Windows Keyboard Layout Creator 1.4"
-download here: [dvpe for windows (with guide inside)](http://gnat-tang-archive.qiniudn.com/dvpe.7z), this will not be maintained.
+download here: [dvpe for windows (with guide inside) v0.1 (out of date)](http://gnat-tang-archive.qiniudn.com/dvpe.7z), this will not be maintained.
 
 
 ####
@@ -58,34 +57,46 @@ or you can use my archive [giada_src_cpp_whole.txt](http://gnat-tang-shared-imag
  - [Geoprocessing with python](http://jianshu.io/p/a710e7656ddb) 里的 [python 代码](http://gnat-tang-archive.qiniudn.com/geoprocessing_with_python_whole.txt), 30,154 bytes
 
 - **Testing Result(ordered: qwerty, dvp, dvpe)**
+
  - file1: octave
+
 ![](http://gnat-tang-archive.qiniudn.com/aa.octave_qwerty.png)
 ![](http://gnat-tang-archive.qiniudn.com/ab.octave_dvp.png)
-![](http://gnat-tang-archive.qiniudn.com/ac.octave_dvpe.png)
+![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2_jane.png)
+
  - file2: jane
+
 ![](http://gnat-tang-archive.qiniudn.com/ba.jane_qwerty.png)
 ![](http://gnat-tang-archive.qiniudn.com/bb.jane_dvp.png)
-![](http://gnat-tang-archive.qiniudn.com/bc.jane_dvpe.png)
+![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2_jane.png)
+
  - file3: wood
+
 ![](http://gnat-tang-archive.qiniudn.com/ca.wood_qwerty.png)
 ![](http://gnat-tang-archive.qiniudn.com/cb.wood_dvp.png)
-![](http://gnat-tang-archive.qiniudn.com/cc.wood_dvpe.png)
+![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2_wood.png)
+
  - file4: cpp
+
 ![](http://gnat-tang-archive.qiniudn.com/da.cpp_qwerty.png)
-too much puncs in c++，caused qwerty hard to use
+c++程序中有太多的符号，导致qwerty简直没法用
 ![](http://gnat-tang-archive.qiniudn.com/db.cpp_dvp.png)
-![](http://gnat-tang-archive.qiniudn.com/dc.cpp_dvpe.png)
+![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2._cpp.png)
+
  - file5: python
+
 ![](http://gnat-tang-archive.qiniudn.com/ea.python_qwerty.png)
 ![](http://gnat-tang-archive.qiniudn.com/eb.python_dvp.png)
-![](http://gnat-tang-archive.qiniudn.com/ec.python_dvpe.png)
+![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2_python.png)
+
 
 - **Conclusion**
  - qwerty is terrible
  - dvpe is better than dvp
 （im still using cold-turkey method to get along with dvpe）
 
-## see my blog: [为什么程序员需要德沃夏克](http://jianshu.io/p/2f56bed65e5c), written in chinese
+## see my blog: [为什么程序员需要德沃夏克](http://jianshu.io/p/2f56bed65e5c), 
+written in chinese
 
 
 
