@@ -8,8 +8,8 @@ Based on [Programmer Dvorak Layout](http://www.kaufmann.no/roland/dvorak/)
 
 ```
      ; , . K y f g c L Z
-     a o e H i d R t S N
-     ' q j U x b m w v P
+     a o e I U d R t S N
+     ' q j H x b m w v P
 ```
 
 
@@ -21,9 +21,9 @@ the mostly frequently used letters are:
 On remapped letters:
  - R: 'r' should be in the home row;
  - H: 'h' was pushed aside by 'r', for easy type the most frequent "th" bigram, i put it on the left, and "wh", "he", etc are much more easier
- - U, K, L: 'u' moved down, easy to reach; 'k' up, not use it often; 'l' moved left, great!!
- - S, N: I considered a long time, and finally decided to swap 'u' and 's', they are both import, seems no need to swap, but you know, there are much more 'ss' than 'uu', my small finger doesn't like double tap at all!!!
-
+ - I, H, K, L: 'i' deserve it! 'h' moved down to index finger lower row, easy to reach; 'k' up, not use it often; 'l' moved left, great!!
+ - S, N: I considered a long time, and finally decided to swap 'u' and 's', they are both import, seems no need to swap, but you know, there are much more 'ss' than 'nn', my small finger doesn't like double tap at all!!!
+ - U: no where to go, so here
 
 ## More custom:
 I prety like [xcape](https://github.com/alols/xcape), with it you can do some migic like make Alt_R another Return without losing it's composing behavior
@@ -86,3 +86,7 @@ too much puncs in c++，caused qwerty hard to use
 （im still using cold-turkey method to get along with dvpe）
 
 ## see my blog: [为什么程序员需要德沃夏克](http://jianshu.io/p/2f56bed65e5c), written in chinese
+
+
+
+## [road map](/roadmap.md)
