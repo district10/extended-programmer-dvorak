@@ -46,56 +46,8 @@ All 26 letters settled, and i'm struggling on it. Especially， 'n', 'r', and 'y
 
 I'll keep working on modifier keys, like control, shift, alt, mod2-5, etc
 
-## Testing
-- **Test keyboard hot zone, using file：**
- - [GNU **Octave** Docs](http://www.gnu.org/software/octave/doc/interpreter/)
- - [**Jane** Eyre](http://www.gutenberg.org/files/1260/1260.txt): 1,070,329 bytes
- - [The Mechanical Properties of **Wood**...](http://www.gutenberg.org/cache/epub/12299/pg12299.txt): 395,712 bytes
- - [giada src **cpp** file](http://www.giadamusic.com/download):419,831 bytes
-Got it by：`for i in *.cpp; do cat $i >> ../giada_whole.txt; done`,
-or you can use my archive [giada_src_cpp_whole.txt](http://gnat-tang-shared-image.qiniudn.com/giada_whole.txt)
- - [Geoprocessing with python](http://jianshu.io/p/a710e7656ddb) 里的 [python 代码](http://gnat-tang-archive.qiniudn.com/geoprocessing_with_python_whole.txt), 30,154 bytes
-
-- **Testing Result(ordered: qwerty, dvp, dvpe)**
-
- - file1: octave
-
-![](http://gnat-tang-archive.qiniudn.com/aa.octave_qwerty.png)
-![](http://gnat-tang-archive.qiniudn.com/ab.octave_dvp.png)
-![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2_jane.png)
- - file2: jane
-
-![](http://gnat-tang-archive.qiniudn.com/ba.jane_qwerty.png)
-![](http://gnat-tang-archive.qiniudn.com/bb.jane_dvp.png)
-![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2_jane.png)
- - file3: wood
-
-![](http://gnat-tang-archive.qiniudn.com/ca.wood_qwerty.png)
-![](http://gnat-tang-archive.qiniudn.com/cb.wood_dvp.png)
-![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2_wood.png)
- - file4: cpp
-
-![](http://gnat-tang-archive.qiniudn.com/da.cpp_qwerty.png)
-![](http://gnat-tang-archive.qiniudn.com/db.cpp_dvp.png)
-![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2._cpp.png)
- - file5: python
-
-![](http://gnat-tang-archive.qiniudn.com/ea.python_qwerty.png)
-![](http://gnat-tang-archive.qiniudn.com/eb.python_dvp.png)
-![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2_python.png)
-
-
-- **Conclusion**
- - qwerty is terrible
- - dvpe is better than dvp
-（im still using cold-turkey method to get along with dvpe）
-
-## see my blog: [为什么程序员需要德沃夏克](http://jianshu.io/p/2f56bed65e5c), 
-written in chinese
-
-
 
 ## [road map](/roadmap.md)
 
 
-fuck windows
+fuck windows, it died!
