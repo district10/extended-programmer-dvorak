@@ -29,7 +29,7 @@ I prety like [xcape](https://github.com/alols/xcape), with it you can do some mi
 
 
 ## How to get it?
-#### Linux: A Simple Shell to do it (i'm struggling with it now... try some days) 
+#### Linux: A Simple Shell to do it, reboot and it's resumed (i'm struggling with it now... try some days) 
 you should set up Programmer Dvorak Keyboard Layout first. Then, check the dvpe.sh
 
 
