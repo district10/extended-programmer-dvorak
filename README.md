@@ -59,23 +59,27 @@ or you can use my archive [giada_src_cpp_whole.txt](http://gnat-tang-shared-imag
 - **Testing Result(ordered: qwerty, dvp, dvpe)**
 
  - file1: octave
+
 ![](http://gnat-tang-archive.qiniudn.com/aa.octave_qwerty.png)
 ![](http://gnat-tang-archive.qiniudn.com/ab.octave_dvp.png)
 ![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2_jane.png)
  - file2: jane
+
 ![](http://gnat-tang-archive.qiniudn.com/ba.jane_qwerty.png)
 ![](http://gnat-tang-archive.qiniudn.com/bb.jane_dvp.png)
 ![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2_jane.png)
  - file3: wood
+
 ![](http://gnat-tang-archive.qiniudn.com/ca.wood_qwerty.png)
 ![](http://gnat-tang-archive.qiniudn.com/cb.wood_dvp.png)
 ![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2_wood.png)
  - file4: cpp
+
 ![](http://gnat-tang-archive.qiniudn.com/da.cpp_qwerty.png)
-c++程序中有太多的符号，导致qwerty简直没法用
 ![](http://gnat-tang-archive.qiniudn.com/db.cpp_dvp.png)
 ![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2._cpp.png)
  - file5: python
+
 ![](http://gnat-tang-archive.qiniudn.com/ea.python_qwerty.png)
 ![](http://gnat-tang-archive.qiniudn.com/eb.python_dvp.png)
 ![](http://gnat-tang-shared-image.qiniudn.com/dvpe0.2_python.png)
