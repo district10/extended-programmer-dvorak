@@ -22,3 +22,5 @@ Alt_L=Tab;Alt_R=Return;\
 Shift_L=slash;Shift_R=backslash;\
 Control_L=Shift_L|percent;Control_R=Shift_R|asciitilde"
 
+echo "xcape done"
+
