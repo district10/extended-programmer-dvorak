@@ -22,5 +22,28 @@ Alt_L=Tab;Alt_R=Return;\
 Shift_L=slash;Shift_R=backslash;\
 Control_L=Shift_L|percent;Control_R=Shift_R|asciitilde"
 
+
+
+
+#    state 0x0, keycode 20 (keysym 0x21, exclam), same_screen YES,
+#    state 0x0, keycode 21 (keysym 0x23, numbersign), same_screen YES,
+#    state 0x0, keycode 35 (keysym 0x40, at), same_screen YES,
+#    state 0x0, keycode 34 (keysym 0x2f, slash), same_screen YES,
+#    state 0x0, keycode 51 (keysym 0x5c, backslash), same_screen YES,
+#    state 0x0, keycode 48 (keysym 0x2d, minus), same_screen YES,
+#    state 0x0, keycode 66 (keysym 0xff20, Multi_key), same_screen YES,
+#    state 0x0, keycode 36 (keysym 0xff0d, Return), same_screen YES,
+
+################## Swap more keys ######################
+# Multi_key[Caps] -> minus
+xmodmap -e "keycode 66 = minus"
+# get it back xmodmap -e "keycode 66 = Multi_key"
+
+# minus -> at
+# xmodmap -e "keycode 48 = at"
+# Return -> Multi_key
+
 echo "xcape done"
+
+
 
