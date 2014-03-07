@@ -53,4 +53,4 @@ I'll keep working on modifier keys, like control, shift, alt, mod2-5, etc
 ## [road map](/roadmap.md)
 
 
-fuck windows, it died!
+fuck windows, i lost the passwd! so windows edition will not be maintained.
