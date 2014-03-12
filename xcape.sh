@@ -17,7 +17,6 @@ xcape -e "$spare_modifier=space"
 
 # more work to do
 xcape -e "\
-Super_L=Alt_R|F2;\
 Alt_L=Tab;Alt_R=Return;\
 Shift_L=slash;Shift_R=backslash;\
 Control_L=Shift_L|percent;Control_R=Shift_R|asciitilde"
@@ -36,7 +35,7 @@ Control_L=Shift_L|percent;Control_R=Shift_R|asciitilde"
 
 ################## Swap more keys ######################
 # Multi_key[Caps] -> minus
-xmodmap -e "keycode 66 = minus"
+xmodmap -e "keycode 66 = Super_L"
 # get it back xmodmap -e "keycode 66 = Multi_key"
 
 # minus -> at
