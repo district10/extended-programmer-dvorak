@@ -34,7 +34,7 @@ Control_L=Shift_L|percent;Control_R=Shift_R|asciitilde"
 #    state 0x0, keycode 36 (keysym 0xff0d, Return), same_screen YES,
 
 ################## Swap more keys ######################
-# Multi_key[Caps] -> minus
+# Multi_key[Caps] -> Super_L, using awesome window manager these days~
 xmodmap -e "keycode 66 = Super_L"
 # get it back xmodmap -e "keycode 66 = Multi_key"
 
