@@ -58,5 +58,6 @@ xmodmap -e "keycode 42 = u"
 # u -> i
 xmodmap -e "keycode 41 = i"
 
+
 echo "dvpe done"
 
