@@ -2,6 +2,8 @@
 
 # customize modifier keys (use xcape)
 
+# modify space behavior, (commented off this part)
+: '
 spare_modifier="Hyper_L"
 xmodmap -e "keycode 65 = $spare_modifier"
 xmodmap -e "remove mod4 = $spare_modifier" # hyper_l is mod4 by default
@@ -14,14 +16,16 @@ xmodmap -e "keycode 255 = space"
 
 # Finally use xcape to cause the space bar to generate a space when tapped.
 xcape -e "$spare_modifier=space"
+'
+
+
+xmodmap -e "keycode 65 = Control_L"
 
 # more work to do
 xcape -e "\
+Control_L=Space;\
 Alt_L=Tab;Alt_R=Return;\
-Shift_L=slash;Shift_R=backslash;\
-Control_L=Shift_L|percent;Control_R=Shift_R|asciitilde"
-
-
+Shift_L=slash;Shift_R=backslash;"
 
 
 #    state 0x0, keycode 20 (keysym 0x21, exclam), same_screen YES,
