@@ -7,6 +7,7 @@ Extented Programmer Dvorak (dvpe)
 > DVPE was ported to NEO-extended dvpe, check this, [neo-keyboard-layout](https://github.com/district10/neo_keyboard_layout)
 
 
+# DVPE - Dvorak Programmer Extended
 Based on [Programmer Dvorak Layout](http://www.kaufmann.no/roland/dvorak/)
 
 ## New Geometry: (uppercase letters remaped)
