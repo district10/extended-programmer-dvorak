@@ -12,6 +12,13 @@ Based on [Programmer Dvorak Layout](http://www.kaufmann.no/roland/dvorak/)
      ' q j H x b m w v P
 ```
 
+## News 
+
+
+> DVPE was ported to NEO-extended dvpe, check this, [neo-keyboard-layout](https://github.com/district10/neo_keyboard_layout)
+
+
+
 
 ## Why?
 First, see [English Letter Frequency Counts](http://norvig.com/mayzner.html),

@@ -17,7 +17,6 @@ xcape -e "$spare_modifier=space"
 
 # more work to do
 xcape -e "\
-Alt_L=Tab;Alt_R=Return;\
 Shift_L=slash;Shift_R=backslash;"
 
 
