@@ -1,6 +1,11 @@
 Extented Programmer Dvorak (dvpe)
 =================================
 
+## News 
+
+
+> DVPE was ported to NEO-extended dvpe, check this, [neo-keyboard-layout](https://github.com/district10/neo_keyboard_layout)
+
 
 Based on [Programmer Dvorak Layout](http://www.kaufmann.no/roland/dvorak/)
 
@@ -11,11 +16,6 @@ Based on [Programmer Dvorak Layout](http://www.kaufmann.no/roland/dvorak/)
      a o e I U d R t S N
      ' q j H x b m w v P
 ```
-
-## News 
-
-
-> DVPE was ported to NEO-extended dvpe, check this, [neo-keyboard-layout](https://github.com/district10/neo_keyboard_layout)
 
 
 
