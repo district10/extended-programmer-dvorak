@@ -46,6 +46,7 @@ you should set up Programmer Dvorak Keyboard Layout first. Then, check the dvpe.
 #### Windows: I made one by "Windows Keyboard Layout Creator 1.4"
 download here: [dvpe for windows (with guide inside) v0.1 (out of date)](http://gnat-tang-archive.qiniudn.com/dvpe.7z), this will not be maintained.
 
+I Highly recommend you [Neo keyboard layout variants](https://github.com/district10/neo_keyboard_layout)
 
 ####
 
