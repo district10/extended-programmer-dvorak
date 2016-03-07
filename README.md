@@ -38,7 +38,7 @@ I prety like [xcape](https://github.com/alols/xcape), with it you can do some mi
 
 ## Testing
 
-on my blog [为什么程序员需要德沃夏克](http://jianshu.io/p/2f56bed65e5c), written in chinese(if necessary, 
+on my blog [为什么程序员需要德沃夏克](http://tangzx.qiniudn.com/post-0006-why-emacs-users-favor-dvorak.html), written in chinese(if necessary, 
 
 use google translate), visualized with [Keyboard-Heatmap](https://github.com/district10/Keyboard-Heatmap)
 
